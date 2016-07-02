@@ -23,4 +23,4 @@ Add this to your `~/.homebridge/config.json` as an accessory:
 
 ## Getting your Sky+ Box's IP address
 
-On your Sky+ Box, go to Settings > Network > IP Address of the Sky box.
+On your Sky+ Box, go to Settings > Network > IP Address of this Sky box.
