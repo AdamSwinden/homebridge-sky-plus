@@ -1,31 +1,31 @@
 {
-    "name": "homebridge-sky-plus",
-    "version": "0.0.1",
-    "description": "Homebridge plugin to turn on/off a Sky+ box.",
-    "main": "index.js",
-    "scripts": {},
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/AdamSwinden/homebridge-sky-plus.git"
-    },
-    "keywords": [
-        "homebridge-plugin",
-        "homebridge",
-        "sky",
-        "plus",
-        "sky-plus"
-    ],
-    "author": "Adam Swinden <me@swinden.com> (http://swinden.com)",
-    "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/AdamSwinden/homebridge-sky-plus/issues"
-    },
-    "homepage": "https://github.com/AdamSwinden/homebridge-sky-plus#readme",
-    "dependencies": {
-        "sky-remote": "^1.0.3"
-    },
-    "engines": {
-        "node": ">=0.12.0",
-        "homebridge": ">=0.2.0"
-    }
+  "name": "homebridge-sky-plus",
+  "version": "0.0.2",
+  "description": "Homebridge plugin to turn on/off a Sky+ box.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdamSwinden/homebridge-sky-plus.git"
+  },
+  "keywords": [
+    "homebridge-plugin",
+    "homebridge",
+    "sky",
+    "plus",
+    "sky-plus"
+  ],
+  "author": "Adam Swinden <me@swinden.com> (http://swinden.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AdamSwinden/homebridge-sky-plus/issues"
+  },
+  "homepage": "https://github.com/AdamSwinden/homebridge-sky-plus#readme",
+  "dependencies": {
+    "sky-remote": "^1.0.3"
+  },
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  }
 }
