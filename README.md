@@ -1,6 +1,6 @@
 # homebridge-sky-plus
 
-Homebridge plugin to turn on/off a Sky+ box.
+[Homebridge](https://github.com/nfarina/homebridge) plugin to turn on/off a Sky+ box.
 
 ## Installation
 
